@@ -1,0 +1,28 @@
+p {
+    font-size: 30px;
+    color: rgb(20, 37, 15);
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgba(52, 68, 22, 0.815);
+    background-color: rgba(156, 97, 211, 0.253);}
+
+h2 {
+    font-size: 42px;
+    color:rgba(27, 77, 25, 0.795);
+    background-color: rgba(156, 97, 211, 0.253);
+}
+
+.primeiro {
+   background: rgba(22, 92, 22, 0.363);
+   width: 200px;
+   height: 100px;
+   padding: 30px;
+   border: 15px solid rgba(3, 0, 0, 0.466);
+   margin: 50px;
+}
+
+
+
