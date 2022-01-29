@@ -22,6 +22,10 @@ h2 {
    padding: 30px;
    border: 15px solid rgba(3, 0, 0, 0.466);
    margin: 50px;
+
+   p{
+       color: grid-template-columns: ;
+   }
 }
 
 
